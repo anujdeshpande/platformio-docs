@@ -72,7 +72,7 @@ Installation
 ------------
 
 1. Create ``boards`` directory in :ref:`projectconf_pio_core_dir` if it
-   doesn't exist.
+   doesn't exist. You can also put this in the :ref:`projectconf_pio_boards_dir`.
 2. Create ``myboard.json`` file in this ``boards`` directory.
 3. Search available boards via :ref:`cmd_boards` command. You should see
    ``myboard`` board.
